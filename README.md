@@ -1,4 +1,4 @@
-# 1. recommend
+# 1. Cosmetic Recommendation Model
 (1) 화장품 사용자들의 제품 평점정보를 바탕으로 유사도를 측정하여, 유사한 사용자들간의 제품을 추천해줍니다.
 
 (2) 사용된 알고리즘
